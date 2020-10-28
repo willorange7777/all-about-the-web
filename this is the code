@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+
+        <meta charset="utf-8">
+        <title>All about social media and the web</title>
+     <h2>table of contents</h2>
+     <li><a href="#youtube">best social media</a></li>
+     <li><a href="#webmake1">how the web was made</a></li>
+     <li><a href="#webmake2">more about how the web was made</a></li><li><a href="#whomade">who gets the credits for making the web</a></li><li><a href="#howold">how old is the web</a></li>
+    <li><a href="#t">good and bad social media</a></li>
+    <li></li>
+     <h3>best Socil media</h3>
+     <ol>
+        <li id="youtube">youtube    
+        <li>twitch
+        <li>Buzz feed
+        </ol>
+       <p>These 3 links are the most famous social sites<br>
+        At the top   
+       
+       </p> 
+    
+    <h3 id="webmake1">How the web was made</h3>    
+    <h4>I bet your wondering how the web was made well her is the anser</h4>
+    <p>Tim Berners-Lee, a British scientist, invented the World Wide Web (WWW) in 1989, while working at CERN. The web was originally conceived and developed to meet the demand for automated information-sharing between scientists in universities and institutes around the world.</p>    
+    <h3 id="webmake2">More about how the web was made</h3>
+    <p>Originally funded by the U.S. Department of Defense, ARPANET used packet switching to allow multiple computers to communicate on a single network. ... ARPANET adopted TCP/IP on January 1, 1983, and from there researchers began to assemble the “network of networks” that became the modern Internet.</p>
+    <h3 id="whomade">who is creadited for making the web?</h3>
+    <h4>well here is the anser</h4>    
+    <p>Computer scientists Vinton Cerf and Bob Kahn are credited with inventing the Internet communication protocols we use today and the system referred to as the Internet.</p>
+   <h3>how old is the web</h3> 
+   <h4>Well hear is the anser</h4>    
+   <p id="howold">The World Wide Web is 30 years old — and its inventor has a warning for us. "The fight for the web is one of the most important causes of our time," Tim Berners-Lee said.</p>
+ <h3>what is social media</h3>   
+<h4>well here is the anser</h4>
+<p>Social media is computer-based technology that facilitates the sharing of ideas, thoughts, and information through the building of virtual networks and communities. By design, social media is internet-based and gives users quick electronic communication of content.</p>
+<h3>types about social media</h3>
+<h4>Here are types of social media</h4>
+<li>Social networking (Facebook, LinkedIn, Google+).</li>
+<li>Microblogging (Twitter, Tumblr).</li>
+<li>Photo sharing (Instagram, Snapchat, Pinterest).</li>
+<li>Video sharing (YouTube, Facebook Live, Periscope, Vimeo).</li>
+<h3>what is the purpuse of social media</h3>
+<p>To pull up a definition now, 'social media' is the series of websites and applications designed to permit people to share content quickly, efficiently and in real-time. The interaction can occur in many forms. Popular ones include: Sharing links.</p>
+<h3>better exampels of social media</h3>
+<p>To pull up a definition now, 'social media' is the series of websites and applications designed to permit people to share content quickly, efficiently and in real-time. The interaction can occur in many forms. Popular ones include: Sharing links.</p>
+<h3>what are the risk of social media</h3>
+<p>cyberbullying (bullying using digital technology) invasion of privacy. identity theft. your child seeing offensive images and messages.</p>
+<h3 id="free">what is the most pupuler social media right now</h3>
+<p>Despite a tumultuous 2018, Facebook is still the top social network in the United States, with 169.76 million mobile users accessing the Facebook app in September 2019. The company's other properties Instagram and Facebook Messenger ranked second and third with 121 and 106 million users respectively.</p>
+<h3 id="t">good and bad with social media</h3>
+<p>Social media can be a useful tool for businesses, bringing advantages such as engaging with your audience and boosting website traffic. However there can also be disadvantages, including the resources required and negative feedback.</p>
